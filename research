@@ -1,0 +1,6 @@
+First, I had to find out what Active Directory really was. Checked it out on Wikipedia, and I kiiiinda understand! I thought a quote from Robert R. King on the page was real helpful. 
+
+"A domain represents a database. That database holds records about network services-things like computers, users, groups and other things that use, support, or exist on a network. The domain database is, in effect, Active Directory."
+
+Pretty cool!
+
