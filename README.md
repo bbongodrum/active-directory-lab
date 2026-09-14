@@ -1,5 +1,7 @@
 # active-directory-lab
-My first real homelab. Trying to simulate active directory using a windows server VM and a windows enterprise VM.
-To be honest, I had no clue what Active Directory was prior to this. I had heard of it in passing, and how it'd be a good lab. I caved, and started work on this.
-I'll be adding to this as I go on. Apologies for the mess, haha!
+## Overview
+A setup of two virtual machines simulating an Active Directory environment. One machine, running Windows Server Core 2022, acts as the Domain Controller. The other, running Windows 11 Enterprise Edition, acts as the client. These two VMs live on a virtual network and currently only communicate with each other (an Internal Network). 
+I would experiment with more than one client VM, but my host has 16GB of RAM installed. Things would get extremely tight if I did. 
+
+## Design
 
