@@ -5,3 +5,4 @@ I would experiment with more than one client VM, but my host has 16GB of RAM ins
 
 ## Design
 
+<img width="4800" height="3393" alt="diagram" src="https://github.com/user-attachments/assets/c8833129-7cb0-45af-8692-9532070210b1" />
