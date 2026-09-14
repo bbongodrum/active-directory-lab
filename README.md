@@ -4,7 +4,8 @@ A setup of two virtual machines simulating an Active Directory environment.
 - Host - Ubuntu 26.04 LTS
 - Domain Controller - Windows Server 2022 Core
 - Client - Windows 11 Enterprise Edition
-- Virtualisation Softwsre - Virtualbox 
+- Virtualisation Software - Virtualbox 
+
 I would experiment with more than one client VM, but my host has 16GB of RAM installed. Things would get extremely tight if I did. 
 
 ## Design
