@@ -18,3 +18,6 @@ I drew this diagram after setting everything up. At the time of setup, I was pre
 
 I had downloaded Windows Server 2022 Core and Windows 11 Enterprise Edition. I hadn't known there was a desktop version of Windows Server until _after_ setting up Active Directory. I decided to keep Core to challenge myself, and aid in my learning of Powershell.
 
+### Domain Controller
+
+
