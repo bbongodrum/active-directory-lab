@@ -10,7 +10,7 @@ I would experiment with more than one client VM, but my host has 16GB of RAM ins
 
 ## Design
 
-![alt text](651462721-c8833129-7cb0-45af-8692-9532070210b1.png)
+![alt text](images/651462721-c8833129-7cb0-45af-8692-9532070210b1.png)
 
 I drew this diagram after setting everything up. At the time of setup, I was pretty clueless on how AD worked under the hood.
 
@@ -20,4 +20,8 @@ I had downloaded Windows Server 2022 Core and Windows 11 Enterprise Edition. I h
 
 ### Domain Controller
 
+![alt text](images/image.png)
 
+test
+testing
+testing 123
