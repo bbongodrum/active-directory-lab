@@ -18,8 +18,14 @@ I drew this diagram after setting everything up. At the time of setup, I was pre
 
 I had downloaded Windows Server 2022 Core and Windows 11 Enterprise Edition. I hadn't known there was a desktop version of Windows Server until _after_ setting up Active Directory. I decided to keep Core to challenge myself, and aid in my learning of Powershell.
 
+Set up an internal network within VirtualBox with an ipv4 address of 192.168.57.2 and a subnet mask of 255.255.255.0 
+![alt text](images/virtual-network.png)
+
 ### Domain Controller
 
 ![alt text](images/DC-config.png)
+
+![alt-text](images/DC-Network-Settings.png)
+
 
 
