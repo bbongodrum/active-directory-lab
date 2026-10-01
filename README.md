@@ -20,12 +20,14 @@ I had downloaded Windows Server 2022 Core and Windows 11 Enterprise Edition. I h
 
 Set up an internal network within VirtualBox with an ipv4 address of 192.168.57.2 and a subnet mask of 255.255.255.0 
 ![alt text](images/virtual-network.png)
+This network allows the machines to communicate with eachother, as long as they use ipv4 addresses in the format 192.168.57.x, x being any number 3-254. (192.168.57.1 is reserved for the gateway)
 
 ### Domain Controller
 
 ![alt text](images/DC-config.png)
 
 ![alt-text](images/DC-Network-Settings.png)
+test
 
 
 
