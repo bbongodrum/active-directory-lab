@@ -27,7 +27,7 @@ This network allows the machines to communicate with eachother, as long as they 
 ![alt text](images/DC-config.png)
 
 ![alt-text](images/DC-Network-Settings.png)
-test
+test2
 
 
 
